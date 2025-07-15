@@ -4,10 +4,10 @@ function App() {
   return(
     <div>
     <ContadorLikes/>
+    {/* <ContadorLikes/>
     <ContadorLikes/>
     <ContadorLikes/>
-    <ContadorLikes/>
-    <ContadorLikes/>
+    <ContadorLikes/> */}
   </div>
   );
 }
